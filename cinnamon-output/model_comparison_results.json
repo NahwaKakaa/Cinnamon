@@ -1,0 +1,26 @@
+{
+  "ResNet50": {
+    "validation_accuracy": 0.9068322777748108,
+    "validation_loss": 0.44742873311042786,
+    "checkpoint": "/kaggle/working/best_ResNet50_comparison.keras",
+    "total_params": 24639878
+  },
+  "EfficientNetB0": {
+    "validation_accuracy": 0.9409937858581543,
+    "validation_loss": 0.35568562150001526,
+    "checkpoint": "/kaggle/working/best_EfficientNetB0_comparison.keras",
+    "total_params": 4708521
+  },
+  "MobileNetV2": {
+    "validation_accuracy": 0.8944099545478821,
+    "validation_loss": 0.42413708567619324,
+    "checkpoint": "/kaggle/working/best_MobileNetV2_comparison.keras",
+    "total_params": 2916934
+  },
+  "DenseNet121": {
+    "validation_accuracy": 0.9068322777748108,
+    "validation_loss": 0.4163341522216797,
+    "checkpoint": "/kaggle/working/best_DenseNet121_comparison.keras",
+    "total_params": 7565382
+  }
+}

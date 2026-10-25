@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "Cinnamon",
+		"path": "."
+	},
+	{
+		"name": "best_DenseNet121_comparison",
+		"path": "../best_DenseNet121_comparison"
+	}
+],
+  "settings": {}
+}

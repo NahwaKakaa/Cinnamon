@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Checkpoints & Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Large dataset folders exceeding GitHub limits
+cinnamon-output/Final_Cinnamon-1/
+cinnamon-output/dataset_split_clean/
+cinnamon-output/cinnamon-multiple-diseases-1/
+
+# Large model files exceeding GitHub 100MB limit
+cinnamon-output/best_ResNet50_comparison.keras
+cinnamon-output/model_backups/ResNet50_phase1/
+cinnamon-output/model_backups/ResNet50_phase2/

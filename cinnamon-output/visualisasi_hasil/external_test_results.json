@@ -1,0 +1,77 @@
+{
+    "model": "EfficientNetB0",
+    "validation_accuracy": 0.9409937858581543,
+    "external_accuracy": 0.7567567567567568,
+    "number_of_images": 74,
+    "class_names": [
+        "healthy",
+        "leafspot",
+        "roughbark",
+        "stripecanker"
+    ],
+    "model_classes": [
+        "healthy",
+        "leafspot",
+        "noncinnamon_bark",
+        "noncinnamon_leaves",
+        "roughbark",
+        "stripecanker"
+    ],
+    "class_counts": {
+        "leafspot": 20,
+        "healthy": 26,
+        "stripecanker": 10,
+        "roughbark": 18
+    },
+    "confusion_matrix": [
+        [
+            11,
+            1,
+            0,
+            14,
+            0,
+            0
+        ],
+        [
+            1,
+            17,
+            0,
+            1,
+            1,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            18,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            10
+        ]
+    ],
+    "checkpoint": "/kaggle/working/best_EfficientNetB0_comparison.keras"
+}
