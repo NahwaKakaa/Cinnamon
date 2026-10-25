@@ -9,7 +9,7 @@ Proyek klasifikasi penyakit pada tanaman kayu manis (Cinnamon) menggunakan deep 
 ## 📁 Struktur Repositori
 
 ```text
-├── cinnamon.ipynb                  # Jupyter Notebook lengkap untuk training & evaluasi
+├── notebook.ipynb                  # Jupyter Notebook lengkap untuk training & evaluasi
 ├── cinnamon-output/
 │   ├── best_DenseNet121_comparison.keras     # Model checkpoint DenseNet121 (<100MB)
 │   ├── best_EfficientNetB0_comparison.keras   # Model checkpoint EfficientNetB0 (<100MB)
