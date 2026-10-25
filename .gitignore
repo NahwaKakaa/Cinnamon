@@ -11,6 +11,7 @@ Thumbs.db
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
+scratch/
 
 # Large dataset folders exceeding GitHub limits
 cinnamon-output/Final_Cinnamon-1/
